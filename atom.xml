@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://simo666.cn/"/>
-  <updated>2016-12-15T02:52:59.510Z</updated>
+  <updated>2016-12-15T03:12:30.285Z</updated>
   <id>http://simo666.cn/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://simo666.cn/2016/12/15/WebStorm%202016.3%E4%B8%8B%E8%BD%BD%E4%B8%8E%E6%B1%89%E5%8C%96/"/>
     <id>http://simo666.cn/2016/12/15/WebStorm 2016.3下载与汉化/</id>
     <published>2016-12-15T02:17:16.122Z</published>
-    <updated>2016-12-15T02:52:59.510Z</updated>
+    <updated>2016-12-15T03:12:30.285Z</updated>
     
     <content type="html"><![CDATA[<h1 id="WebStorm-2016-3-2"><a href="#WebStorm-2016-3-2" class="headerlink" title="WebStorm 2016.3.2"></a>WebStorm 2016.3.2</h1><p>WebStorm 是 JetBrains 推出的一款商业的 JavaScript 开发工具。被广大中国JS开发者誉为“Web前端开发神器”、“最强大的HTML5编辑器”、“最智能的JavaScript IDE”等。与IntelliJ IDEA同源，继承了IntelliJ IDEA强大的JS部分的功能。本次发布累计修复30多个问题。</p>
 <blockquote>
@@ -40,7 +40,7 @@
 <li>代码折叠：功能虽小，不过胜在方便高效</li>
 <li>包裹或者去掉外围代码：自动提示包裹或者去掉外围代码，一键搞定。<h2 id="【汉化说明】"><a href="#【汉化说明】" class="headerlink" title="【汉化说明】"></a>【汉化说明】</h2></li>
 <li>文件下载并解压后，运行主程序中bin文件夹的“WebStorm.exe”，然后在菜单上依次选择File -&gt; Settings -&gt; Appearance&amp;Behavior -&gt; Appearance -&gt; 选中Override default fonts by(not recommended)Name: 微软雅黑 (选择任意中文字体)</li>
-<li>然后将“WebStorm<em>zh</em>汉化包中的resources_cn.jar” 复制到主程序lib文件夹中，重新打开软件就能正常显示中文了。<p><style type="text/css">.next-documentations-reload-help-button{<br>      ;padding: 0 20px;<br>      ;border: 2px solid #555;<br>      ;text-decoration: none;<br>      ;display: inline-block;<br>      ;overflow: hidden;<br>      ;color: #555;<br>      ;font-size: 14px;<br>      ;background: #fff;<br>      ;border-radius: 2px;<br>      ;transition: all 0.3s ease;<br>    }<br>    {}.next-documentations-reload-help-button:hover {<br>      ;color: white;<br>      ;background-color: black;<br>      ;border-color: black;<br>    }<br>    {}.next-documentations-reload-help-button i {margin-right: 5px;}<br></style></p><br><p class="text-center"><br><a href="https://eyun.baidu.com/s/3hrD8i4s" class="next-documentations-reload-help-button" target="_blank" rel="external"><i class="fa fa-globe"></i> WebStorm+中文汉化包 下载</a><br></p>
+<li>然后将“WebStorm<em>zh</em>汉化包中的resources_cn.jar” 复制到主程序lib文件夹中，重新打开软件就能正常显示中文了。<p><style type="text/css">.next-documentations-reload-help-button{<br>      ;padding: 0 20px;<br>      ;border: 2px solid #555;<br>      ;text-decoration: none;<br>      ;display: inline-block;<br>      ;overflow: hidden;<br>      ;color: #555;<br>      ;font-size: 14px;<br>      ;background: #fff;<br>      ;border-radius: 2px;<br>      ;transition: all 0.3s ease;<br>    }<br>    {}.next-documentations-reload-help-button:hover {<br>      ;color: white;<br>      ;background-color: black;<br>      ;border-color: black;<br>    }<br>    {}.next-documentations-reload-help-button i {margin-right: 5px;}<br></style></p><br><p class="text-center"><br><a href="https://eyun.baidu.com/s/3hrD8i4s" class="next-documentations-reload-help-button" target="_blank" rel="external"><i class="fa fa-globe"></i> WebStorm+汉化包下载</a><br></p>
 
 </li>
 </ol>
