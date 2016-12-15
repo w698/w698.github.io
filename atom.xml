@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://simo666.cn/"/>
-  <updated>2016-10-25T06:26:49.194Z</updated>
+  <updated>2016-12-15T02:52:59.510Z</updated>
   <id>http://simo666.cn/</id>
   
   <author>
@@ -14,6 +14,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WebStorm 2016.3下载与汉化</title>
+    <link href="http://simo666.cn/2016/12/15/WebStorm%202016.3%E4%B8%8B%E8%BD%BD%E4%B8%8E%E6%B1%89%E5%8C%96/"/>
+    <id>http://simo666.cn/2016/12/15/WebStorm 2016.3下载与汉化/</id>
+    <published>2016-12-15T02:17:16.122Z</published>
+    <updated>2016-12-15T02:52:59.510Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="WebStorm-2016-3-2"><a href="#WebStorm-2016-3-2" class="headerlink" title="WebStorm 2016.3.2"></a>WebStorm 2016.3.2</h1><p>WebStorm 是 JetBrains 推出的一款商业的 JavaScript 开发工具。被广大中国JS开发者誉为“Web前端开发神器”、“最强大的HTML5编辑器”、“最智能的JavaScript IDE”等。与IntelliJ IDEA同源，继承了IntelliJ IDEA强大的JS部分的功能。本次发布累计修复30多个问题。</p>
+<blockquote>
+<p>了解更多新版本改进信息，可查看官方完整<a href="https://confluence.jetbrains.com/display/WI/WebStorm+162.1812.21+Release+Notes" target="_blank" rel="external">发布说明</a>。</p>
+</blockquote>
+<p><img src="http://www.jetbrains.com/webstorm/img/screenshots/ws-overview__vcs-grunt-debug@2x.png" class="full-image"></p>
+<a id="more"></a>
+<h2 id="【软件功能】"><a href="#【软件功能】" class="headerlink" title="【软件功能】"></a>【软件功能】</h2><ol>
+<li>智能的代码补全：支持不同浏览器的提示，还包括所有用户自定义的函数。代码补全包含了所有流行的库，比如：JQuery, YUI, Dojo, Prototype, Mootools and Bindows。</li>
+<li>代码格式化：代码不仅可以格式化，而且所有规则都可以自己来定义</li>
+<li>html提示：大家经常在js代码中编写html代码，一般来说十分痛苦，不过有了智能提示，就爽多了。而且html里面还能有js提示。</li>
+<li>联想查询：只需要按着Ctrl键点击函数或者变量等，就能直接跳转到定义；可以全代码导航和用法查询项目查找函数或者变量，还可以查找使用并高亮。</li>
+<li>代码重构：这个操作有些像Resharper，熟悉Resharper的用户应该上手很快，支持的有重命名、提取变量/函数、内联变量/函数、移动/复制、安全删除等等。</li>
+<li>代码检查和快速修复：可以快速找到代码中的错误或者需要优化的地方，并给出修改意见，快速修复。</li>
+<li>代码调试：支持代码调试，界面和IDEA相似，非常方便。</li>
+<li>代码结构浏览：可以快速浏览和定位</li>
+<li>代码折叠：功能虽小，不过胜在方便高效</li>
+<li>包裹或者去掉外围代码：自动提示包裹或者去掉外围代码，一键搞定。<h2 id="【汉化说明】"><a href="#【汉化说明】" class="headerlink" title="【汉化说明】"></a>【汉化说明】</h2></li>
+<li>文件下载并解压后，运行主程序中bin文件夹的“WebStorm.exe”，然后在菜单上依次选择File -&gt; Settings -&gt; Appearance&amp;Behavior -&gt; Appearance -&gt; 选中Override default fonts by(not recommended)Name: 微软雅黑 (选择任意中文字体)</li>
+<li>然后将“WebStorm<em>zh</em>汉化包中的resources_cn.jar” 复制到主程序lib文件夹中，重新打开软件就能正常显示中文了。<p><style type="text/css">.next-documentations-reload-help-button{<br>      ;padding: 0 20px;<br>      ;border: 2px solid #555;<br>      ;text-decoration: none;<br>      ;display: inline-block;<br>      ;overflow: hidden;<br>      ;color: #555;<br>      ;font-size: 14px;<br>      ;background: #fff;<br>      ;border-radius: 2px;<br>      ;transition: all 0.3s ease;<br>    }<br>    {}.next-documentations-reload-help-button:hover {<br>      ;color: white;<br>      ;background-color: black;<br>      ;border-color: black;<br>    }<br>    {}.next-documentations-reload-help-button i {margin-right: 5px;}<br></style></p><br><p class="text-center"><br><a href="https://eyun.baidu.com/s/3hrD8i4s" class="next-documentations-reload-help-button" target="_blank" rel="external"><i class="fa fa-globe"></i> WebStorm+中文汉化包 下载</a><br></p>
+
+</li>
+</ol>
+<h2 id="提取码-mbIh"><a href="#提取码-mbIh" class="headerlink" title="提取码 mbIh"></a>提取码 mbIh</h2><h1 id="新浪微博：哎呀哎呦哎呀呦"><a href="#新浪微博：哎呀哎呦哎呀呦" class="headerlink" title="新浪微博：哎呀哎呦哎呀呦"></a>新浪微博：哎呀哎呦哎呀呦</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;WebStorm-2016-3-2&quot;&gt;&lt;a href=&quot;#WebStorm-2016-3-2&quot; class=&quot;headerlink&quot; title=&quot;WebStorm 2016.3.2&quot;&gt;&lt;/a&gt;WebStorm 2016.3.2&lt;/h1&gt;&lt;p&gt;WebStorm 是 JetBrains 推出的一款商业的 JavaScript 开发工具。被广大中国JS开发者誉为“Web前端开发神器”、“最强大的HTML5编辑器”、“最智能的JavaScript IDE”等。与IntelliJ IDEA同源，继承了IntelliJ IDEA强大的JS部分的功能。本次发布累计修复30多个问题。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;了解更多新版本改进信息，可查看官方完整&lt;a href=&quot;https://confluence.jetbrains.com/display/WI/WebStorm+162.1812.21+Release+Notes&quot;&gt;发布说明&lt;/a&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jetbrains.com/webstorm/img/screenshots/ws-overview__vcs-grunt-debug@2x.png&quot; class=&quot;full-image&quot; /&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Web" scheme="http://simo666.cn/categories/Web/"/>
+    
+    
+      <category term="WebStorm 2016.3" scheme="http://simo666.cn/tags/WebStorm-2016-3/"/>
+    
+      <category term="WebStorm" scheme="http://simo666.cn/tags/WebStorm/"/>
+    
+      <category term="web编辑器" scheme="http://simo666.cn/tags/web%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>Chrome 54/55/56各版本下载</title>
